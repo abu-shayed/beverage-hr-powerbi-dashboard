@@ -2,9 +2,6 @@
 
 Two interactive Power BI dashboards built from one Excel workbook: **beverage sales performance** and **HR attrition analysis**.
 
-![<img width="1919" height="1079" alt="sales_dashboard" src="https://github.com/user-attachments/assets/5f489f92-83cb-4429-bb1d-264def8f3319" />
-](images/beverage_sales.png)
-
 ## Business Questions
 
 **Beverage Sales**
@@ -22,21 +19,17 @@ Two interactive Power BI dashboards built from one Excel workbook: **beverage sa
 
 | Beverage Sales | HR Overview | HR Trends |
 |---|---|---|
-| ![<img width="1919" height="1079" alt="sales_dashboard" src="https://github.com/user-attachments/assets/819e68f5-2e36-4ca1-9910-edfef8fbb681" />
-](images/beverage_sales.png) 
-| ![<img width="1917" height="1079" alt="HR_Overview" src="https://github.com/user-attachments/assets/632f5313-caaf-4dc9-97b0-5f9cfcf9433a" />
-](images/hr_overview.png) | ![<img width="1919" height="1079" alt="HR_Trends" src="https://github.com/user-attachments/assets/274cc981-f459-405f-8a57-0e8a7f6b9cfc" />
-](images/hr_trends.png) |
+<img width="1919" height="1079" alt="sales_dashboard" src="https://github.com/user-attachments/assets/1feb35e2-5ebc-4b78-b990-7e07c1555f11" /><img width="1919" height="1079" alt="HR_Trends" src="https://github.com/user-attachments/assets/6f0cd468-a55d-4589-8d45-ed7b9588bfc1" />
+<img width="1917" height="1079" alt="HR_Overview" src="https://github.com/user-attachments/assets/d6ef3eb0-cb37-4dee-8667-ddbb2fc2f99a" />
+
+
+
 
 ## Key Insights
 - [Insight 1, e.g. which brand leads on revenue and profit]
 - [Insight 2, e.g. the month or weekday with the highest revenue]
 - Termination rate is [x]% ([237] of [1,470] employees)
 - [Insight 4, e.g. which satisfaction level has the most terminations]
-
-## Data
-Source file: `[2026-10-18T11-07-44.076Z-2026-09-09T09-42-29.602Z-2026-08-18T12-35-28.112Z-2026-07-16T13-47-32.018Z-Final Assignmen (1).xlsx](https://github.com/user-attachments/files/34115850/2026-10-18T11-07-44.076Z-2026-09-09T09-42-29.602Z-2026-08-18T12-35-28.112Z-2026-07-16T13-47-32.018Z-Final.Assignmen.1.xlsx)
-`
 
 | Table | Description |
 |---|---|
