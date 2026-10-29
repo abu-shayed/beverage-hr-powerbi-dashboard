@@ -18,11 +18,10 @@ Two interactive Power BI dashboards built from one Excel workbook: **beverage sa
 ## Dashboard Preview
 
 | Beverage Sales | HR Overview | HR Trends |
-|---|---|---|
-<img width="1919" height="1079" alt="sales_dashboard" src="https://github.com/user-attachments/assets/1feb35e2-5ebc-4b78-b990-7e07c1555f11" /><img width="1919" height="1079" alt="HR_Trends" src="https://github.com/user-attachments/assets/6f0cd468-a55d-4589-8d45-ed7b9588bfc1" />
-<img width="1917" height="1079" alt="HR_Overview" src="https://github.com/user-attachments/assets/d6ef3eb0-cb37-4dee-8667-ddbb2fc2f99a" />
-
-
+|<img width="1919" height="1079" alt="sales_dashboard" src="https://github.com/user-attachments/assets/f868c6bc-052d-453d-a038-f0e622e54110" />
+|<img width="1917" height="1079" alt="HR_Overview" src="https://github.com/user-attachments/assets/7ff2cb60-039b-41d8-8dba-a3e8c8e36c38" />
+|<img width="1919" height="1079" alt="HR_Trends" src="https://github.com/user-attachments/assets/817f0d1a-a9f0-4d7f-9124-61d15f30c345" />
+|
 
 
 ## Key Insights
