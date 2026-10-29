@@ -2,7 +2,8 @@
 
 Two interactive Power BI dashboards built from one Excel workbook: **beverage sales performance** and **HR attrition analysis**.
 
-![Beverage Sales](images/beverage_sales.png)
+![<img width="1919" height="1079" alt="sales_dashboard" src="https://github.com/user-attachments/assets/5f489f92-83cb-4429-bb1d-264def8f3319" />
+](images/beverage_sales.png)
 
 ## Business Questions
 
